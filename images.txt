@@ -32,7 +32,6 @@ lovechen/gewe
 lovechen/goamzai
 lovechen/gost
 lovechen/gw
-lovechen/ha_test
 lovechen/hbbt
 lovechen/headscale
 lovechen/headscale-ui
@@ -57,8 +56,6 @@ lovechen/mjp-amd64
 lovechen/mjpp
 lovechen/nexus3
 lovechen/nginx
-lovechen/office-preview
-lovechen/one-api
 lovechen/onlyoffice-communityserver
 lovechen/onlyoffice-documentserver
 lovechen/onlyoffice-documentserver-ee
@@ -101,7 +98,6 @@ lovechen/virtual-dsm
 lovechen/warp-container
 lovechen/wcppp
 lovechen/webdav-aliyundriver
-lovechen/webproxy-ipcontrol
 lovechen/wechat-ai
 lovechen/wechotd
 lovechen/whoami
