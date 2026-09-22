@@ -19,6 +19,7 @@ lovechen/ddns-updater
 lovechen/dnscrypt-proxy
 lovechen/dnscrypt-server-docker
 lovechen/docker-image-backup
+lovechen/droid_watch
 lovechen/elasticsearch
 lovechen/elasticsearch-with-ik
 lovechen/embyserver1
@@ -32,6 +33,7 @@ lovechen/gewe
 lovechen/goamzai
 lovechen/gost
 lovechen/gw
+lovechen/ha_test
 lovechen/hbbt
 lovechen/headscale
 lovechen/headscale-ui
@@ -56,6 +58,11 @@ lovechen/mjp-amd64
 lovechen/mjpp
 lovechen/nexus3
 lovechen/nginx
+lovechen/nginx_fileserver
+lovechen/office-preview
+lovechen/one-api
+lovechen/one-api-1
+lovechen/one-api-2
 lovechen/onlyoffice-communityserver
 lovechen/onlyoffice-documentserver
 lovechen/onlyoffice-documentserver-ee
@@ -98,6 +105,7 @@ lovechen/virtual-dsm
 lovechen/warp-container
 lovechen/wcppp
 lovechen/webdav-aliyundriver
+lovechen/webproxy-ipcontrol
 lovechen/wechat-ai
 lovechen/wechotd
 lovechen/whoami
