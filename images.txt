@@ -20,7 +20,6 @@ lovechen/dnscrypt-proxy
 lovechen/dnscrypt-server-docker
 lovechen/docker-image-backup
 lovechen/droid_watch
-lovechen/elasticsearch
 lovechen/elasticsearch-with-ik
 lovechen/embyserver1
 lovechen/fclone
