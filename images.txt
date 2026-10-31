@@ -99,6 +99,7 @@ lovechen/subconverter
 lovechen/surge_downloader
 lovechen/synchub
 lovechen/syncnode
+lovechen/tg_proxy
 lovechen/tinysys
 lovechen/virtual-dsm
 lovechen/warp-container
